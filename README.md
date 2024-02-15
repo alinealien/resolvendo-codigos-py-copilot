@@ -14,7 +14,8 @@ O que aprenderemos?
 * Entrada de dados
 * Utilização eficiente do Github Copilot
 
-## 2 - Repetindo Texto ✏️
+<br>
+## 2 - Repetindo Textos ✏️
 
 Descrição:
 Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
@@ -27,7 +28,7 @@ O que aprenderemos?
 * Entrada de dados
 * Aproveitar as sugestões do Github Copilot
 
-
+<br>
 ## 3 - Operações Matemáticas Simples 📐
 
 Descrição:

@@ -1,4 +1,4 @@
-# Resolvendo Códigos em Python utilizando o Github Copilot
+# Resolvendo Códigos em Python com o Github Copilot
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
 

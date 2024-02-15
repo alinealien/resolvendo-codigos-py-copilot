@@ -2,6 +2,11 @@
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
 
+### Atenção ⚠️ 
+
+Não tem acesso ao Github Copilot?! Não tem problema!! 
+Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+
 ## 1 - Concatenando Dados 🐾
 
 Descrição:

@@ -15,6 +15,7 @@ O que aprenderemos?
 * Utilização eficiente do Github Copilot
 
 <br>
+
 ## 2 - Repetindo Textos ✏️
 
 Descrição:
@@ -29,6 +30,7 @@ O que aprenderemos?
 * Aproveitar as sugestões do Github Copilot
 
 <br>
+
 ## 3 - Operações Matemáticas Simples 📐
 
 Descrição:

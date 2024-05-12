@@ -19,6 +19,8 @@ O que aprenderemos?
 * Entrada de dados
 * Utilização eficiente do Github Copilot
 
+### Desafio Concluído ⚡
+
 <br>
 
 ## 2 - Repetindo Textos ✏️
@@ -34,6 +36,8 @@ O que aprenderemos?
 * Entrada de dados
 * Aproveitar as sugestões do Github Copilot
 
+### Desafio Concluído ⚡
+
 <br>
 
 ## 3 - Operações Matemáticas Simples 📐
@@ -47,6 +51,8 @@ O que aprenderemos?
 * Entrada de dados
 * Utilização eficiente do Github Copilot
 
+### Desafio Concluído ⚡
+
 <br>
 
 ## 4 - Verificando Números Pares e Ímpares 🧮
@@ -59,7 +65,7 @@ O que aprenderemos?
 * Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
 * Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
 
-
+### Desafio Concluído ⚡
 <br>
 
 ## 5 - Calculando Média de Notas 📚
@@ -72,6 +78,7 @@ O que aprenderemos?
 * Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 * Prática na solicitação e manipulação de entrada do usuário.
 
+### Desafio Concluído ⚡
 <br>
 
 ## 6 - Verificando Palíndromos 🔄
@@ -83,3 +90,5 @@ O que aprenderemos?
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+
+### Desafio Concluído ⚡

@@ -83,3 +83,37 @@ O que aprenderemos?
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+
+ ## 7 - Pré-requisitos
+
+Para executar os exemplos deste repositório é necessário ter instalado:
+
+* Python 3.x
+* Editor de código (VS Code recomendado)
+
+Verifique a instalação do Python:
+
+```bash
+python --version
+```
+
+## 6 - Como executar os exemplos
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/alinealien/resolvendo-codigos-py-copiloto.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd resolvendo-codigos-py-copiloto
+```
+
+3. Execute o arquivo desejado:
+
+```bash
+python nome_do_arquivo.py
+```
+
